@@ -2,6 +2,8 @@
 
 Load more pagination in React
 
+![ScreenShot 1](/Loadmore.PNG)
+
 ## Quick Start
 
 Follow the below steps to run the project.
