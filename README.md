@@ -1,4 +1,4 @@
-# load-more-pagination-react
+# Load More Pagination in React
 
 Load more pagination in React
 
